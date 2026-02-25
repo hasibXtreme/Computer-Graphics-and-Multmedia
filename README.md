@@ -1,7 +1,7 @@
 # Graphics Lab - OpenGL Cyan Star
 
 ## Student Information
-* **Name:** Hasib
+* **Name:** Hasib Al Mahmud Siddique
 * **ID:** 095
 
 ## Project Description
